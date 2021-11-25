@@ -1,7 +1,3 @@
 # CreepyCrypt
 
-## Server IP :
-```
-CreepyCrypt.aternos.me
-```
-JOIN NOW!
+**[PREVIEW](https://janakthegamer.github.io/CC/)**
