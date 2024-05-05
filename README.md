@@ -1,3 +1,3 @@
 # CreepyCrypt
 
-**[PREVIEW](https://janakthegamer.github.io/CC/)**
+**[PREVIEW](https://janakxd.github.io/CC/)**
